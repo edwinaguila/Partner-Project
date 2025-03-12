@@ -1,0 +1,12 @@
+.Genny {
+    display: flex;
+    justify-content: center;
+    margin: 200pt;
+}
+
+body {
+    background-image: url(Black_Bull_Insignia.webp);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    z-index: -1;
+}
