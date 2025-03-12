@@ -4,6 +4,15 @@
     margin: 200pt;
 }
 
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
 body {
     background-image: url(Black_Bull_Insignia.webp);
     background-repeat: no-repeat;
