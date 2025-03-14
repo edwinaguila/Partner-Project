@@ -4,7 +4,7 @@
     /* margin: 200pt; */
 }
 
-.About h1 {
+.About h2 {
     font-family: "Galada", cursive;
     font-weight: 400;
     font-style: normal;
@@ -32,7 +32,9 @@ h1 {
     line-height: 0pt;
     margin-top: 50pt;
     -webkit-text-stroke-color: 1.5px #FFF600;
-    -webkit-text-stroke: 1.5px #FFF600;
+    -webkit-text-stroke: #FFF600;
+    stroke-opacity: .95;
+    -webkit-text-stroke-width: 1.5pt;
 }
 
 h3 {
